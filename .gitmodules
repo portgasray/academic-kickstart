@@ -1,3 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/portgasray/hugo-academic.git
+[submodule "public"]
+	path = public
+	url = git@github.com:portgasray/portgasray.github.io.git
+	branch = master
