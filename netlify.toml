@@ -17,7 +17,7 @@
 
 [[redirects]]
   from = "https://portgasray.netlify.com"
-  to = "https://[portgasray.codes"
+  to = "https://portgasray.codes"
   status = 301
   force = true
 
