@@ -21,13 +21,13 @@ organizations:
 bio: My research interests include robotics manipulation, computer vision.
 
 interests:
-- Artificial Intelligence
-- Robotics Manipulation
+- Machine Learning
+- Robotics Grasping
 
 
 education:
   courses:
-  - course: PhD in Electronics and Information
+  - course: D.Eng in Electronics and Information
     institution: Fudan University
     year: 2018
   - course: MA in Computer Technology
@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ray-zhang-zone
-- icon: google-scholar
-  icon_pack: ai
-  link: #
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: #
 - icon: github
   icon_pack: fab
   link: https://github.com/portgasray
@@ -61,7 +61,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "leizhang18@fudan.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Ray is a D.Eng Student at the Academy for Engineering and Technology at the Fudan University. He worked in intelligent robot lab. He studied robot manipulation (e.g. grasping novel objects) to help robots to understand the novel world. His work on "" are published in :
+Ray is a D.Eng Student at the Academy for Engineering and Technology at the Fudan University. He worked in Robot Manipulation Lab for one year. Date to January 2019, It’s the first time he touched the robot on MoveItDay China. After short-term learning to manipulate a 6-DOF robot arm. He learned that he still has a long way to go. On later October, he took part in  ROScon2019 at Macau, the stories about researchers and developers inspired him to move forward. Even now he struggled with his work and research, he still remembers conversations with his friends Lentin and Archu, which means a lot to him.
 
-Specialities : ROS  /  3D reconstruction  /  Geometric vision  /  SLAM  /  Probabilistic estimation  /  Machine learning  /  Manipulation  / Cloud Computing / IoT /  Mechanism Design 
+<!-- Specialities : ROS  /  Linux  /  web-front-end  /  SLAM  /  Probabilistic estimation  /  Machine learning  /  Manipulation  / Cloud Computing / IoT /  Mechanism Design  -->
