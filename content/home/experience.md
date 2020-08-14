@@ -27,9 +27,10 @@ date_format = "Jan 2006"
   description = """ Worked with the project leader to implement a face recognition algorithm on DMS(driver monitoring system) device, including data clean, model training and algorithm evaluation
 
   Responsibilities include:
-  * Face Recognition Algorithm
-  * Model Trainging
-  * Evaluation Algorithm
+  * Impletement Face Recognition Algorithm based on Insightface alogrihtm with C++ and Python.
+  * Model Trainging with MobileNetv2 on MXNet
+  * Evaluation Algorithm 1:1, 1:N on face database: Labeled Faces in the Wild Home(LFW)
+
   """
 
 [[experience]]
