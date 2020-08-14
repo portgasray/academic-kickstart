@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
   Responsibilities include:
   * Impletement Face Recognition Algorithm based on Insightface alogrihtm with C++ and Python.
-  * Model Trainging with MobileNetv2 on MXNet
+  * Model Training with MobileNetv2 on MXNet
   * Evaluation Algorithm 1:1, 1:N on face database: Labeled Faces in the Wild Home(LFW)
 
   """
